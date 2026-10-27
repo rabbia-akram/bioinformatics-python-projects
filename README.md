@@ -1,6 +1,6 @@
 # Bioinformatics Python Projects
 
-Three beginner projects made with python. I have an Msc in Zoology and I am moving into bioinformatics.
+Three beginner projects made with Python. I have an MSc in Zoology and I am moving into bioinformatics.
 
 ## Project 1: DNA Sequence Analyzer
 Reads the human insulin gene (NM_000207,from NCBI) and finds:
